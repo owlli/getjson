@@ -1,0 +1,2 @@
+{"desired":{"LED":"on","SW_Version":"02010100"}}
+{"desired":{"LED":"off","SW_Version":"02010100"}}

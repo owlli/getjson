@@ -1,0 +1,4 @@
+{"name":"Tom","age":14,"gender":true,"height":1.65,"grade":null,"middle-school":"\"W3C\" Middle School","skills":["JavaScript","Java","Python","Lisp"]}
+{"name":"Jerry","age":15,"gender":true,"height":1.65,"grade":null,"middle-school":"\"W3C\" Middle School","skills":["C","Java","Python","Lisp"]}
+{"name":"Bob","age":15,"gender":true,"height":1.65,"grade":null,"middle-school":"\"W3C\" Middle School","skills":["C","PHP","Python","Lisp"]}
+{"name":"Allen","age":15,"gender":true,"height":1.65,"grade":null,"middle-school":"\"W3C\" Middle School","skills":["C","PHP","Python","C++"]}
